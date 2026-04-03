@@ -48,5 +48,5 @@ Aqui estão algumas das principais ferramentas que utilizo no meu dia a dia e pr
 
 Seja para falar sobre dados ou novas oportunidades:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cayquesant/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cayque-santiago)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=target&logoColor=white)](https://abrir.link/hWOVN)
