@@ -14,13 +14,6 @@ Minha trajetória como analista sênior me deu a base para entender o negócio. 
 
 ---
 
-<div>
-  <a href="https://github.com/rafaballerini">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cayquesant&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cayquesant&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
-</div>
-
 ### 🛠️ Skills e Tecnologias
 
 Aqui estão algumas das principais ferramentas que utilizo no meu dia a dia e projetos:
@@ -49,16 +42,6 @@ Aqui estão algumas das principais ferramentas que utilizo no meu dia a dia e pr
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![DAX Studio](https://img.shields.io/badge/DAX%20Studio-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Measure Killer](https://img.shields.io/badge/Measure%20Killer-E34C26?style=for-the-badge&logo=data-analysis&logoColor=white)
----
-
-### 📈 Estatísticas e Contribuições
-
-Este repositório está sempre em evolução. Você pode ver meus projetos principais pinados no topo do perfil.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cayquesant&langs_count=10&title_color=f39c12&text_color=bdc3c7&icon_color=f39c12&bg_color=171b1e&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=cayquesant&show_icons=true&title_color=f39c12&text_color=bdc3c7&icon_color=f39c12&bg_color=171b1e&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ### 📫 Vamos nos conectar?
